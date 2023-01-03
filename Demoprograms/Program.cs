@@ -4,11 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Collection.List();
-            Collection.Queue();
-            Collection.Stack();
-            Collection.Dictinory();
-            Collection.Set();
+            //Collection.List();
+            //Collection.Queue();
+            //Collection.Stack();
+            //Collection.Dictinory();
+            //Collection.Set();
+
+            ReflectionOnCustomer.ReflectionTest();
         }
     }
 }
